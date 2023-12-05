@@ -2,7 +2,7 @@
 
 Im -EISHU- (Donatto Viveros) and i maintain my Game of Minetest (**[BlockAssault](https://github.com/EISHU-MT/blockassault)**) and a few amount of mods for [Minetest](https://github.com/minetest)
 
-My favorite programming languages is: **Lua**, **Bash**, **Python**
+My favorite programming languages is: **Lua**, **Bash**, **Python**, **CSS**, **HTML**
 
 Currently learning **C++**
 
